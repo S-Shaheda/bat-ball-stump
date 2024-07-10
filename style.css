@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.choice-button{
+    height: 100px;
+    width:  100px;
+    border: none;
+    margin: 15px;
+    background-color: rgb(171 241 122);
+    border-radius: 50px;
+}
+.choice-image{
+    height: 80px;
+}
+#reset-button{
+    font-size: large;
+    color: white;
+    background-color: rgb(154, 153, 235);
+    height: 28px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+}
